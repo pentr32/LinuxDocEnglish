@@ -8,7 +8,7 @@ Linux means the kernel of the system where it is central to control everything o
 
 The story of Linux begins with UNIX, an operating system developed at AT&T Bell Labs in the 1970s.
 
- > *UNIX is written in C programming language.*
+> *UNIX is written in C programming language.*
 >
 > *Linux was written in C and Assembly language.* 
 
@@ -22,10 +22,13 @@ Lots of hackers. **especially ethical hackers** use linux with python because py
 
 **Free/Libre and Open Source Software (FLOSS)** - a researcher studying practices and methods used by developers in the free software community decided that these questions were independent of the developers' political views, so he used the term “FLOSS,” meaning “Free/Libre and Open Source Software,” to explicitly avoid a preference between the two political camps
 
+<br><br>
 
 ## BSD
 
 BSD stands for "Berkeley Software Distribution". It is the distribution name of the source code from the University of California, Berkeley which has been used as an extension to AT & T's Research UNIX operating system.
+
+<br><br>
 
 ## Difference between Linux and BSD
 
@@ -51,6 +54,8 @@ Linux is a group of free open source operating systems built around Linux Kernel
 Software that runs on a computer device and manages the hardware and software components that make up the system. Commonly abbreviated as **OS**.
 
 The users today will choose from among 3 major operating systems which are **Microsoft Windows**, **Apple macOS**, **Linux**. Only **Microsoft Windows** is based on proprietary code that is not **Unix** or **Linux** based.
+
+<br><br>
 
 ## Basic linux commands.
 
@@ -258,8 +263,7 @@ Typical format for command is:
 |*cd*| --- |Go to $HOME directory|
 |*cd /test*| --- |Change to /test directory|
 
-
-
+<br><br>
 
 # REMEMBER
 
